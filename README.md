@@ -1,5 +1,5 @@
 # Web-Scraping
-I'd be glad to create a comprehensive README.md file for your GitHub repository that incorporates the best aspects of the previous responses and addresses potential shortcomings:
+
 
 **Web Scraping Project**
 
@@ -17,7 +17,7 @@ This project demonstrates various web scraping techniques using Python to extrac
 **Installation:**
 
 ```bash
-pip install requests beautifulsoup4
+Conda install requests beautifulsoup4
 ```
 
 **Instructions:**
