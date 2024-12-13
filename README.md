@@ -91,13 +91,9 @@ python scrape_data.py
 
 ## Notes
 
-- The script assumes that the provided HTML file (`test.html`) is accessible locally or online.
+- The script assumes that the provided HTML file (`https://www.baraasallout.com/test.html`) is accessible locally or online.
 - For any issues, feel free to create an issue in this repository 
 
----
-
-
-```
 
 
 
